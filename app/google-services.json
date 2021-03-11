@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284846825032",
+    "project_id": "dicoding-submision",
+    "storage_bucket": "dicoding-submision.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284846825032:android:e198c897dde6eec700027d",
+        "android_client_info": {
+          "package_name": "com.ilham.dicoding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284846825032-h100dot1tlia6as98pstd8v8b0rg9t5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG8jCR79pz9qm4DW6GLIoV3HieYy0ZaA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284846825032-h100dot1tlia6as98pstd8v8b0rg9t5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dicoding submission</string>
+    <string name="dicoding">dicoding</string>
+    <string name="portofolio">Portoio</string>
+    <string name="profileDesc">Profile Description</string>
+    <string name="placeholder">placeholder</string>
+    <string name="title">Portofolio Title</string>
+    <string name="share">share</string>
+    <string name="portofolio_mu">Portofoliomu Nih !</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed pellentesque ligula, maximus ornare diam. Fusce quis risus id est rutrum egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce congue posuere mi quis rhoncus. Sed non tristique purus. Ut tincidunt condimentum odio sit amet consectetur. Mauris fringilla erat tristique est varius blandit. Maecenas tellus dolor, sollicitudin id cursus sed, finibus eu ipsum. Nulla gravida sapien risus. Praesent suscipit sem sed fermentum volutpat. Donec urna libero, pulvinar vel sollicitudin ac, molestie sit amet massa. Cras ac iaculis velit. Praesent mollis nec erat at sodales. Vestibulum euismod tincidunt odio, quis venenatis justo facilisis a. Curabitur tortor magna, pharetra finibus elit quis, ultrices rhoncus lorem. Duis at venenatis urna.</string>
+</resources>
